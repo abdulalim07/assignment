@@ -11,7 +11,7 @@ function minAbsoluteValue($int_in_str)
 
     foreach ($str_to_ints as $integer) {
 
-        // need check positive or negetive value
+        // need check positive or negative value
         if ($integer >= 0) {
             $int_number = $integer;
         } else {
