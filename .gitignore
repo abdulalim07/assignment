@@ -1,0 +1,9 @@
+# Ignore all zip files in the entire repository
+*.zip
+
+# Ignore all zip files in a specific directory
+*/*/*/*.zip
+
+# Ignore a specific zip file
+*/*/*/*.zip
+
