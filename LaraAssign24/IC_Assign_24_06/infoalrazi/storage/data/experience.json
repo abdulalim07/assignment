@@ -1,0 +1,72 @@
+[
+    {
+        "company": "Tech Solutions Inc.",
+        "role": "Software Engineer",
+        "start_date": "2021-01-15",
+        "end_date": "2023-07-31",
+        "responsibilities": "Developed web applications, collaborated with cross-functional teams, and maintained code quality."
+    },
+    {
+        "company": "Innovatech Corp.",
+        "role": "Junior Developer",
+        "start_date": "2019-06-01",
+        "end_date": "2020-12-31",
+        "responsibilities": "Assisted in coding, testing, and debugging software projects, and provided support for application deployment."
+    },
+    {
+        "company": "Creative Solutions Ltd.",
+        "role": "Frontend Developer",
+        "start_date": "2018-04-01",
+        "end_date": "2019-05-31",
+        "responsibilities": "Designed user interfaces, optimized web performance, and ensured responsive design across all platforms."
+    },
+    {
+        "company": "Global Tech Partners",
+        "role": "Backend Developer",
+        "start_date": "2017-02-01",
+        "end_date": "2018-03-31",
+        "responsibilities": "Built and maintained server-side logic, integrated third-party APIs, and managed database operations."
+    },
+    {
+        "company": "NextGen Technologies",
+        "role": "Full Stack Developer",
+        "start_date": "2015-08-01",
+        "end_date": "2017-01-31",
+        "responsibilities": "Developed and maintained full-stack web applications, managed cloud-based infrastructure, and implemented CI/CD pipelines."
+    },
+    {
+        "company": "Bright Future IT",
+        "role": "DevOps Engineer",
+        "start_date": "2020-02-01",
+        "end_date": "2021-01-14",
+        "responsibilities": "Automated infrastructure deployment, monitored system performance, and collaborated with development teams to optimize software delivery."
+    },
+    {
+        "company": "CodeCraft Labs",
+        "role": "Software Intern",
+        "start_date": "2014-06-01",
+        "end_date": "2014-08-31",
+        "responsibilities": "Assisted in developing internal tools, wrote test scripts, and participated in code reviews."
+    },
+    {
+        "company": "Digital Innovations",
+        "role": "QA Engineer",
+        "start_date": "2013-09-01",
+        "end_date": "2015-07-31",
+        "responsibilities": "Performed manual and automated testing, documented bugs, and worked closely with developers to resolve issues."
+    },
+    {
+        "company": "WebTech Studios",
+        "role": "UI/UX Designer",
+        "start_date": "2012-05-01",
+        "end_date": "2013-08-31",
+        "responsibilities": "Designed wireframes and prototypes, conducted user research, and improved user interface design based on feedback."
+    },
+    {
+        "company": "Alpha Solutions",
+        "role": "System Analyst",
+        "start_date": "2010-03-01",
+        "end_date": "2012-04-30",
+        "responsibilities": "Analyzed system requirements, created technical documentation, and provided solutions to improve system efficiency."
+    }
+]
