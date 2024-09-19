@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "title": "E-Commerce Website",
         "description": "Developed a fully functional e-commerce platform with user authentication, product management, and payment gateway integration.",
         "technologies": ["Laravel", "Vue.js", "Stripe API"],
@@ -7,6 +8,7 @@
         "end_date": "2022-06-30"
     },
     {
+        "id": 2,
         "title": "Social Media App",
         "description": "Built a social media application allowing users to create profiles, post updates, and interact with others.",
         "technologies": ["React Native", "Firebase", "Node.js"],
@@ -14,6 +16,7 @@
         "end_date": "2021-09-15"
     },
     {
+        "id": 3,
         "title": "Inventory Management System",
         "description": "Designed and implemented an inventory management system to track stock levels, orders, and suppliers.",
         "technologies": ["PHP", "MySQL", "Bootstrap"],
@@ -21,6 +24,7 @@
         "end_date": "2020-12-31"
     },
     {
+        "id": 4,
         "title": "Personal Portfolio Website",
         "description": "Created a personal portfolio website to showcase my work, skills, and experience.",
         "technologies": ["HTML", "CSS", "JavaScript"],
@@ -28,6 +32,7 @@
         "end_date": "2019-11-15"
     },
     {
+        "id": 5,
         "title": "Real-Time Chat Application",
         "description": "Developed a real-time chat application with support for multiple chat rooms and direct messaging.",
         "technologies": ["Socket.io", "Express.js", "MongoDB"],
@@ -35,6 +40,7 @@
         "end_date": "2018-10-31"
     },
     {
+        "id": 6,
         "title": "Online Learning Platform",
         "description": "Built an online learning platform that offers courses, quizzes, and certifications to users.",
         "technologies": ["Django", "React", "PostgreSQL"],
@@ -42,6 +48,7 @@
         "end_date": "2018-04-30"
     },
     {
+        "id": 7,
         "title": "Task Management Tool",
         "description": "Developed a task management tool to help teams plan, track, and collaborate on projects.",
         "technologies": ["Angular", "Node.js", "MongoDB"],
@@ -49,6 +56,7 @@
         "end_date": "2017-06-30"
     },
     {
+        "id": 8,
         "title": "Weather Forecast App",
         "description": "Created a weather forecast application that provides real-time weather updates and predictions.",
         "technologies": ["Flutter", "OpenWeatherMap API", "Dart"],
@@ -56,6 +64,7 @@
         "end_date": "2016-10-31"
     },
     {
+        "id": 9,
         "title": "Blog Platform",
         "description": "Built a multi-user blog platform where users can create and manage their own blogs.",
         "technologies": ["Ruby on Rails", "PostgreSQL", "Bootstrap"],
@@ -63,6 +72,7 @@
         "end_date": "2015-12-15"
     },
     {
+        "id": 10,
         "title": "Event Management System",
         "description": "Developed an event management system that allows users to create, manage, and attend events.",
         "technologies": ["ASP.NET", "SQL Server", "jQuery"],

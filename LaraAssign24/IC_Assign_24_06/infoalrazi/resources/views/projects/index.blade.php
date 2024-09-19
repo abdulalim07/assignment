@@ -22,8 +22,8 @@
         <div class="pt-8 lg:pt-12">
             @foreach ($projects as $project)
                 <div class="border-grey-lighter border-b pb-8">
-                    <span
-                        class="bg-green-light font-body text-green mb-4 inline-block rounded-full px-2 py-1 text-sm">{{ $project['title'] }}</span>
+                    <a href="{{ route('project.show', $project->title) }}"
+                        class="bg-green-light font-body text-green mb-4 inline-block rounded-full px-2 py-1 text-sm">{{ $project['title'] }}</a>
                     @foreach ($project['technologies'] as $technology)
                     <a href="#"
                         class="font-body text-primary hover:text-green dark:hover:text-secondary block text-lg font-semibold transition-colors dark:text-white">

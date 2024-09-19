@@ -10,6 +10,7 @@ Route::get('/', function () {
 
 Route::get('/experience', [WorkExperienceController::class, 'index'])->name('experience');
 Route::get('/project', [ProjectController::class, 'index'])->name('projects');
+Route::get('/project/{$project}', [ProjectController::class, 'show'])->name('projects.show');
 
 Route::get('/contact', function () {
     return view('contact');
